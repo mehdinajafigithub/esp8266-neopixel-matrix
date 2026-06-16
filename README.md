@@ -85,4 +85,4 @@ MIT License
 
 ## Author
 
-Created by Mehdi using ESP8266 and NeoPixel 25 ذهف Matrix.
+Created by Mehdi using ESP8266 and NeoPixel Matrix.
