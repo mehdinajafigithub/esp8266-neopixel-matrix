@@ -22,7 +22,7 @@ A 5x5 NeoPixel Matrix project built with ESP8266 and WS2812B LEDs.
 | NeoPixel Matrix | ESP8266    |
 | --------------- | ---------- |
 | DIN             | GPIO2 (D4) |
-| 5V              | 5V         |
+| 5V              | 3V3        |
 | GND             | GND        |
 
 ## Required Library
